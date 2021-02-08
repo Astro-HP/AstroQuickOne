@@ -7,3 +7,5 @@ x+=hsp;
 y+=vsp;
 
 image_xscale = max(5, image_xscale+.01);
+
+image_blend = c_blue;
